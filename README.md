@@ -16,11 +16,11 @@ In undersampling - cluster centroids model has accurarcy score is 62.39%, from t
 ![combination_sample](images/combination_sample.png)
 In Combination (Over and Under) Sampling model has accurarcy score is 51.77%, from the recall relate 72% on high rish and 54% on low risk and the sensitivity is 1%.
 
-![balanced_random_forest_calssifier](images/Balanced_Random_Forest_Classifier.png)
-In Balanced Random Forest Classifier model has accurarcy score is 99.95%, from the recall relate 100% on high rish and 100% on low risk and the sensitivity is 83%.
+![balanced_random_forest_calssifier](images/Balanced_Random.png)
+In Balanced Random Forest Classifier model has accurarcy score is 78.78%, from the recall relate 67% on high rish and 91% on low risk and the sensitivity is 4%.
 
-![Easy Ensemble AdaBoost Classifier](images/adaboost.png)
-In Easy Ensemble AdaBoost Classifier model has accurarcy score is 100%, from the recall relate 100% on high rish and 100% on low risk and the sensitivity is 100%.
+![Easy Ensemble AdaBoost Classifier](images/Easy_ensemble.png)
+In Easy Ensemble AdaBoost Classifier model has accurarcy score is 92.54%, from the recall relate 91% on high rish and 94% on low risk and the sensitivity is 7%.
 
 ## Summary: 
 According to different kind of machine learning models and variability on the prediction that are significate to explore which option is the best way to help match with the business for anaylzing the data that they have.
